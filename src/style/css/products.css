@@ -1,0 +1,12 @@
+.makeStyles-root {
+  margin: 1%  !important;
+}
+
+.MuiCard-root {
+  margin: 1%  !important;
+}
+
+.MuiCardMedia-img {
+  object-fit: contain !important;
+}
+/*# sourceMappingURL=products.css.map */
